@@ -7,6 +7,6 @@ Procedural road shader made with Unity's Shader Graph (12.1.7) in URP (12.1.7)
 ### Procedural Tyremark Gloss Map
 ![Tyremarks](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/tyremarks.PNG)
 ### Imperfect Edges
-![Imperfect Edges](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/imperfect_edges.png)
+![Imperfect Edges](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/imperfect_edges.PNG)
 
-![Procedural Roads](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/image1.png)
+![Procedural Roads](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/image1.PNG)

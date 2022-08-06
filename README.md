@@ -3,10 +3,10 @@ Procedural road shader made with Unity's Shader Graph (12.1.7) in URP (12.1.7)
 
 ## Features :
 ### Decals
-![Decals](/images/decals.png)
+![Decals](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/decals.PNG)
 ### Procedural Tyremark Gloss Map
-![Tyremarks](/images/tyremarks.png)
+![Tyremarks](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/tyremarks.png)
 ### Imperfect Edges
-![Imperfect Edges](/images/imperfect_edges.png)
+![Imperfect Edges](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/imperfect_edges.png)
 
-![Procedural Roads](/images/image1.png)
+![Procedural Roads](https://github.com/haze-entertainment/Procedural-Roads/blob/main/images/image1.png)
